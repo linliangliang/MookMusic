@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btn_welcome_style">
+        <item name="android:layout_margin">@dimen/default_margin</item>
+        <item name="android:background">@drawable/btn_welcom_style</item>
+        <item name="android:padding">@dimen/default_padding</item>
+        <item name="android:minHeight">@dimen/zone</item>
+    </style>
+
+</resources>

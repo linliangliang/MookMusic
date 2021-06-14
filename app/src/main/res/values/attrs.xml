@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义是属性给InputText使用-->
+    <declare-styleable name="inputView">
+        <attr name="input_icon" format="reference"/>
+        <attr name="input_hint" format="string"/>
+        <attr name="is_password" format="boolean"/>
+    </declare-styleable>
+</resources>
